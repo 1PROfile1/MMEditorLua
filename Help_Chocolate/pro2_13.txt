@@ -1,0 +1,30 @@
+12.3 | Жилые районы города Los Santos:
+	- Vinewood;
+	- Temple;
+	- Marina;
+	- Santa Maria Beach;
+	- Verona Beach;
+	- Las Colinas;
+	- Los Flores;
+	- Jefferson;
+	- Glen Park;
+	- East Los Santos;
+	- East Beach;
+	- Idlewood;
+	- Ganton;
+	- Willowfield;
+	- El Corona;
+	- Playa Del Seville.
+12.4 | Жилые районы города San Fierro:
+	- Juniper Hill;
+	- Paradiso;
+	- Santa Flora;
+	- Calton Heights;
+	- China Town;
+	- Ocean Flats;
+	- Hushbury.
+12.5 | Жилые районы города Las Venturas:
+	- Whitewood Estates;
+	- Redsands West;
+	- Prickle Pine;
+	- Rockshore West.
