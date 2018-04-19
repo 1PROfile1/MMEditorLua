@@ -2,6 +2,7 @@
   "latest_number": "12",
   "updatetext": "\tТехническое обновление.\n\tВременно отключена часть скрипта связанная с объявлениями для Chocolate сервера по просьбе администрации следящей за СМИ.",
   "latest": "1.0.8",
+  "permoment": true,
   "urlblacklist": "https://forum.advance-rp.ru/threads/.1515120/",
   "datayst": "20.01.2018",
   "datapro": "21.01.2018",
