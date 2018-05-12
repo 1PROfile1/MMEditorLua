@@ -1,6 +1,7 @@
 {
   "latest_number": 1,
   "updatetext": "Обновление",
+  "msg": "Это сообщение разработчика",
   "latest": "1.1.0",
   "permoment": true
 }
