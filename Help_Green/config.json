@@ -4,5 +4,8 @@
   "datapro": "26.04.2018",
   "datappo": "xx.xx.xxxx",
   "zakon": "15",
-  "lvl": "3"
+  "lvl": "3",
+  "edit": false,
+  "AutoEdit": false,
+  "msg": "Данная функция отключена по просьбе зам. главного администратора Kevin Trench."
 }
