@@ -4,5 +4,8 @@
   "datapro": "12.05.2018",
   "datappo": "xx.xx.xxxx",
   "zakon": "30",
-  "lvl": "3"
+  "lvl": "3",
+  "edit": true,
+  "AutoEdit": true,
+  "msg": ""
 }
