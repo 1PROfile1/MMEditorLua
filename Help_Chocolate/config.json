@@ -4,5 +4,8 @@
   "datapro": "22.04.2018",
   "datappo": "22.04.2018",
   "zakon": "30",
-  "lvl": "4"
+  "lvl": "4",
+  "edit": true,
+  "AutoEdit": false,
+  "msg": "AutoEdit отключен по просьбе админинистрации следящей за СМИ."
 }
