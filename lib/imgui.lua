@@ -1,7 +1,7 @@
 -- This file is part of MoonImGui library
 -- Copyright (c) 2017, FYP <blast.hk>
 
-assert(getMoonloaderVersion() >= 025, 'Moon ImGui requires MoonLoader v.025 or greater.')
+assert(getMoonloaderVersion() >= 026, 'Moon ImGui requires MoonLoader v.026 or greater.')
 
 local imgui = require 'MoonImGui'
 local hwnd = readMemory(0x00C8CF88, 4, false)
@@ -9,7 +9,7 @@ local renderer = imgui.ImGuiRenderer(getD3DDevicePtr(), hwnd)
 local winmsg = require 'windows.message'
 local bitex = require 'bitex'
 
-imgui._VERSION = '1.1.2'
+imgui._VERSION = '1.1.3'
 imgui.BeforeDrawFrame = nil
 imgui.OnDrawFrame = nil
 imgui.Process = false
