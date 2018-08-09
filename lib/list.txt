@@ -29,3 +29,16 @@ lub/Dir.lua
 lub/init.lua
 lub/Param.lua
 lub/Template.lua
+md5/core.dll
+mine/core.dll
+socket/core.dll
+socket/ftp.lua
+socket/headers.lua
+socket/http.lua
+socket/smtp.lua
+socket/tp.lua
+socket/url.lua
+ssl/https.lua
+xml/core.dll
+xml/init.lua
+xml/Parser.lua
