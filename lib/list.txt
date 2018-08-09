@@ -8,3 +8,5 @@ samp/events/core.lua
 samp/events/extra_types.lua
 samp/events/handlers.lua
 samp/events/utils.lua
+lanes.lua
+lanes/core.dll
