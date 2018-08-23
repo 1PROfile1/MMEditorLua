@@ -6,6 +6,6 @@
   "zakon": "30",
   "lvl": "4",
   "edit": true,
-  "AutoEdit": true,
-  "msg": "AutoEdit отключен по просьбе Morten Sinclair, гл. следящего за СМИ."
+  "AutoEdit": false,
+  "msg": "AutoEdit отключен по просьбе Christopher Sinclair, гл. следящего за СМИ."
 }
